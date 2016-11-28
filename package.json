@@ -1,0 +1,23 @@
+{
+  "name": "transip",
+  "version": "1.0.0",
+  "description": "TransIP",
+  "main": "index.js",
+  "author": "Rob Homan",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.transip.nl/cp/",
+    "serviceName": "TransIP",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
